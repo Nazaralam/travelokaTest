@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 48, Failures: 2, Errors: 0, Skipped: 38, Time elapsed: 65.667 s <<< FAILURE! - in TestSuite
+beforeSuite(Gokomodo.FE.MobileWeb.LoginManager.Admin.tests.MobileWebLoginAdmin)  Time elapsed: 4.13 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable must exist: /usr/local/bin/node
+
+beforeSuite(Gokomodo.FE.Mobile.LoginManager.Buyer.tests.MobileLoginBuyer)  Time elapsed: 0.008 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable must exist: /usr/local/bin/node
+

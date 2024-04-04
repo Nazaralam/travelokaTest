@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="End to End Web QA JamTangan" thread-count="1" parallel="tests"
+       data-provider-thread-count="1" group-by-instances="true">
+
+        <test name="Testing jamtangan.com">
+            <classes>
+                <class name="Transaction.tests.Buyer.Web.Eklipse.FE.Transaction_HappyFlow"></class>
+            </classes>
+        </test>
+
+</suite>
+
