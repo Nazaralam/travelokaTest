@@ -1,4 +1,4 @@
-# JamTangan Automation Feature
+Traveloka Test
 
 [![N|Solid](http://www.seleniumhq.org/images/selenium-logo.png)](http://www.seleniumhq.org/) 
 
